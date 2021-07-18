@@ -27,11 +27,12 @@ If you are using the files you will likely need to edit them from their default 
     "cred_filename": "connection_profile_tls.json",
     "use_events": true,
     "keep_alive_secs": 120,
-    "company": "United Marbles",
+    "company": "Team KOSK Marbles",
     "usernames": [
-        "amy",
-        "alice",
-        "ava"
+		"KimTaeWoong",
+		"KwonhyeSoo",
+		"OhJunSeok",
+		"SungJonghyeon"
     ],
     "port": 3001
 }
