@@ -306,9 +306,9 @@ $auditSize: 333px;
 	margin: 5px 0 5px 8px;
 }
 .addMarble, .largeMarble{
-	height: 75px;
-	width: 75px;
-	line-height: 75px;
+	height: 100px;
+	width: 45px;
+	line-height: 95px;
 }
 .createball{
 	display: inline-block;
@@ -371,7 +371,7 @@ $auditSize: 333px;
 	border-top:25px $acc_color1 solid;
 }
 .myCompany{
-	background: #545658;
+	background: #667a43;
 	border-top-left-radius: 3px;
 	border-top-right-radius: 3px;
 }
@@ -503,7 +503,7 @@ $auditSize: 333px;
 $marble_top: 15px;
 $marble_left: 0;
 #proposeMarbleStable, #proposeMarble, #endorseMarbleStable, #endorseMarble, #marbleBorderTop, #marbleBorderBottom, #marbleBorderLeft, #marbleBorderRight, .ordererMarbles{
-	border: 3px solid #3D76BA;
+	border: 3px solid #3fba3d;
 	height: 40px;
 	width: 40px;
 	position: relative;
@@ -607,19 +607,19 @@ $marble_left: 0;
 	display: none;
 }
 .ordererMarbles {
-	background: #fff;
+	background: #89f48e;
 	margin-right:2%;
 	position: relative;
 	display: inline-block;
 }
 .ordererMarbles:first-of-type {
-	background: #ff8100;
+	background: #386c4e;
 }
 .ordererMarbles:last-of-type{
-	background: #ec0000;
+	background: #f3fff2;
 }
 #orderBox, #commitBoxStable{
-	background: #018fe0;
+	background: #2e9e28;
 	border-color: transparent;
 }
 
@@ -635,8 +635,8 @@ $marble_left: 0;
 	display: none;
 	position: fixed;
 	top: 60px;
-	background: #343d48;
-	border: 1px #646b73 solid;
+	background: #344b43;
+	border: 1px #1ac42a solid;
 	z-index: 1005;
 	padding: 30px;
 	width: 90%;
